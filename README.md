@@ -2,7 +2,7 @@
 
 Chicago-Crime-Sim 是一款专为居民、游客以及城市规划师设计的社区尺度空间安全监测与交互式模拟移动应用。项目打破了传统静态地图的限制，将复杂的城市大数据与机器学习模型（AI Modeling）转化为直观、可交互的感知界面，让用户能够通过调整空间和规划参数，实时预测并对比不同场景下的城市安全演变趋势。
 
-##📥 核心功能集 (Key Features)
+## 📥 核心功能集 (Key Features)
 1. 社区级空间安全监测 (GIS Spatial Monitor)
 动态风险可视化：在邻里尺度（Neighborhood Scale）对高危风险（如抢劫风险）进行精细化格网渲染与动态热力叠加。
 
@@ -56,7 +56,7 @@ cd chicago-urban-safety-app
 2. 安装依赖 (以 React Native 为例)
 Bash
 npm install
-# 或者
+或者
 yarn install
 3. 配置 API Keys
 在项目根目录下创建一个 .env 文件，并配置你的地图与后端服务密钥：
@@ -71,7 +71,7 @@ npm run ios
 启动 Android 模拟器
 npm run android
 
-##🧭 用户使用指南 (User Guide)
+## 🧭 用户使用指南 (User Guide)
 本应用不仅为专业规划师提供协同设计工具，更致力于为普通居民与游客提供直观的日常出行避险决策支持。以下是核心的用户使用旅程：
 
 1. 实时查看危险分布 (Real-Time Risk Exploration)
